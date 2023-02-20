@@ -1,7 +1,5 @@
 ![snake gif](https://github.com/Denia-park/Denia-park/blob/output/github-contribution-grid-snake.svg)
 
-### Hi there 👋
-
 
 <!--
 **Denia-park/Denia-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
