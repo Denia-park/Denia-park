@@ -12,6 +12,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      
       # Snake Animation
       - uses: Sutil/snk@master
         id: snake-gif
