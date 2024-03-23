@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Denia-park/Denia-park/blob/output/github-snake-dark.svg)
+![snake animation](https://github.com/Denia-park/Denia-park/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!--
