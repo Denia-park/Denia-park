@@ -6,7 +6,9 @@
 
 ## GitHub 커밋 잔디
 
-![snake gif](https://github.com/Denia-park/Denia-park/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Denia-park/Denia-park/blob/output/ocean.gif" />
+</p>
 
 <br/>
 
