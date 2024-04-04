@@ -11,10 +11,11 @@
 </p>
 
 <br/>
-
+<!--
 ## myGarden 공부시간 잔디
 
 ![공부시간 잔디](https://htmlimageserverlessstack-mygardenstudyhoursimages3-bwudtjfrrgec.s3.ap-northeast-2.amazonaws.com/YWRtaW5AYWRtaW4uY29t.png)
+-->
 
 <!--
 **Denia-park/Denia-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
